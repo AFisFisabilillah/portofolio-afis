@@ -16,6 +16,12 @@ const contactMethods = [
   },
   {
     id: '03',
+    label: 'Linkedin',
+    value: 'AfisFisabilillah',
+    href: 'https://www.linkedin.com/in/afisfisabillah/',
+    meta: '',
+  },{
+    id: '04',
     label: 'Location',
     value: 'Bekasi, Indonesia',
     href: '#contact',
