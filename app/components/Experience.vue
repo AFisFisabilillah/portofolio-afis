@@ -18,8 +18,8 @@ const experiences = [
     company: 'PT Satria Media Teknologi',
     type: 'Full-time',
     location: 'Jatiasih, Bekasi, ID',
-    desc: 'Membangun REST API dengan Laravel dan antarmuka pengguna interaktif menggunakan Vue.js. Bertanggung jawab atas integrasi third-party API dan manajemen database.',
-    stacks: ['Vue.js', 'Laravel', 'MySQL', 'Redis'],
+    desc: 'Membangun REST API dengan Laravel dan antarmuka pengguna interaktif menggunakan React.js. Bertanggung jawab atas integrasi third-party API dan manajemen database.',
+    stacks: ['React.js', 'Laravel', 'MySQL'],
     highlight: false,
   },
 ]

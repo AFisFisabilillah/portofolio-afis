@@ -80,9 +80,7 @@ const responseSteps = [
               BUILD SOMETHING<br />
               <span class="text-outline-green">SOLID</span>
             </h3>
-            <p class="font-mono text-sm leading-[1.9] text-white/45 max-w-lg">
-              Ceritakan kebutuhan produk, fitur utama, dan target rilis. Saya akan bantu susun solusi teknis yang realistis dan mudah dikembangkan.
-            </p>
+          
 
             <div class="grid grid-cols-2 sm:grid-cols-4 gap-px bg-primary/15 mt-10">
               <div
