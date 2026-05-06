@@ -1,6 +1,8 @@
 <script setup lang="ts">
 
 
+import SectionTittle from "~/components/SectionTittle.vue";
+
 const stats = [
   { value: '1+', label: 'Years Exp.' },
   { value: '10+', label: 'Projects' },
@@ -13,21 +15,13 @@ const stats = [
 <template>
   <section id="about" class="relative min-h-screen w-full bg-black overflow-hidden py-24 px-6 md:px-16">
 
-    <!-- Background pixel grid -->
     <div class="pixel-grid absolute inset-0 z-0 opacity-[0.03]" />
-
-    <!-- Accent lines -->
-    <div class="absolute top-0 left-0 w-px h-full bg-primary/10 z-0" />
-    <div class="absolute top-0 right-0 w-px h-full bg-primary/10 z-0" />
 
     <div class="relative z-10 max-w-6xl mx-auto">
 
-      <!-- Section label -->
-      <div class="flex items-center gap-3 mb-16">
-        <span class="w-6 h-px bg-primary" />
-        <span class="font-mono text-2xl font-bold tracking-[0.3em] text-primary uppercase">About Me</span>
-        <span class="w-6 h-px bg-primary" />
-      </div>
+      <SectionTittle>
+        About Me
+      </SectionTittle>
 
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-16  items-start">
 
