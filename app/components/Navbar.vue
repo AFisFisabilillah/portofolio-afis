@@ -44,7 +44,7 @@ onBeforeUnmount(() => {
           <span class="absolute -bottom-px -left-px size-1 bg-[#A7EF9E]" />
           <span class="absolute -bottom-px -right-px size-1 bg-[#A7EF9E]" />
         </div>
-        <span class="font-['Bebas_Neue'] text-lg tracking-[0.15em] text-white">ACME</span>
+        <span class="font-['Bebas_Neue'] text-lg tracking-[0.15em] text-white">AFIS</span>
       </div>
 
       <!-- Desktop menu -->

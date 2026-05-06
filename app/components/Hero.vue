@@ -37,12 +37,10 @@
         </span>
       </h1>
 
-      <!-- Description -->
       <p class="font-mono text-sm leading-[1.8] text-white/60 tracking-wide mb-4 animate-fade-up [animation-delay:300ms]">
-        A reactive pixel field engine built for the modern web.
+        Membangun aplikasi web dan mobile yang modern, rapi, dan fungsional dengan fokus pada performa, struktur, dan pengalaman pengguna.
       </p>
 
-      <!-- CTA -->
       <a
           href="#"
           class="inline-flex items-center gap-2.5 bg-primary text-black font-mono text-[11px] font-bold tracking-[0.18em] uppercase px-6 py-3.5 border-2 border-primary transition-all duration-200 hover:bg-transparent hover:text-primary mb-12 animate-fade-up [animation-delay:380ms]"
@@ -53,14 +51,7 @@
         </svg>
       </a>
 
-      <!-- Bottom bar -->
-      <div class="flex w-full items-center border-t-2 justify-start gap-4 border-primary/15 pt-5 animate-fade-up [animation-delay:450ms]">
-        <span class="font-mono text-[10px] font-bold tracking-[0.22em] text-white/30 uppercase">INTERACTIVE</span>
-        <span class="w-1 h-1 rounded-full bg-primary opacity-40" />
-        <span class="font-mono text-[10px] font-bold tracking-[0.22em] text-white/30 uppercase">CONFIGURABLE</span>
-        <span class="w-1 h-1 rounded-full bg-primary opacity-40" />
-        <span class="font-mono text-[10px] font-bold tracking-[0.22em] text-white/30 uppercase">OPEN SOURCE</span>
-      </div>
+
     </div>
   </div>
 </template>
