@@ -40,9 +40,7 @@ const socials = [
                 </div>
               </div>
 
-              <p class="max-w-md font-mono text-xs leading-[1.8] text-white/35">
-                Portfolio pixel-themed untuk web, mobile, backend, dan produk digital yang siap dikembangkan.
-              </p>
+             
             </div>
 
             <div class="flex flex-col gap-4 md:items-end">

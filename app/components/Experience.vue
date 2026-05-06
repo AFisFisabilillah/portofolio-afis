@@ -7,7 +7,7 @@ const experiences = [
     company: 'PT Satria Media Teknologi',
     type: 'Freelance',
     location: 'Remote',
-    desc: 'Memimpin pengembangan aplikasi enterprise menggunakan Spring Boot dan Vue.js. Merancang arsitektur microservices, optimasi performa backend, dan membangun UI yang scalable.',
+    desc: 'lorem100 ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     stacks: ['Vue.js', 'Spring Boot', 'Java', 'PostgreSQL', 'Docker'],
     highlight: true,
   },
