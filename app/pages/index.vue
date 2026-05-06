@@ -2,6 +2,7 @@
 
 import Navbar from "~/components/Navbar.vue";
 import About from "~/components/About.vue";
+import Experience from "~/components/Experience.vue";
 </script>
 
 <template>
@@ -9,7 +10,7 @@ import About from "~/components/About.vue";
     <Navbar></Navbar>
     <Hero/>
     <About/>
-    <div class="min-h-screen"></div>
+    <Experience/>
   </div>
 </template>
 
