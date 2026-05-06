@@ -4,7 +4,8 @@ const isMobileMenuOpen = ref(false)
 const menuItems = [
   { label: 'Home', ariaLabel: 'Go to home page', link: '#' },
   { label: 'About', ariaLabel: 'Learn about us', link: '#about' },
-  { label: 'Services', ariaLabel: 'View our services', link: '#services' },
+  { label: 'Projects', ariaLabel: 'View selected projects', link: '#projects' },
+  { label: 'Skills', ariaLabel: 'View technical skills', link: '#skills' },
   { label: 'Contact', ariaLabel: 'Get in touch', link: '#contact' }
 ]
 const handleScroll = () => {
@@ -60,10 +61,10 @@ onBeforeUnmount(() => {
 
       <div class="flex items-center gap-4">
         <a
-            href="#"
+            href="#contact"
             class="hidden md:inline-flex items-center gap-2 border border-[#A7EF9E] px-4 py-1.5 font-mono text-[10px] font-bold tracking-[0.18em] uppercase text-[#A7EF9E] transition-all duration-200 hover:bg-[#A7EF9E] hover:text-black"
         >
-          CONTAC
+          CONTACT
         </a>
 
         <!-- Hamburger -->
