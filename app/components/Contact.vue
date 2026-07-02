@@ -3,7 +3,7 @@ const contactMethods = [
   {
     id: '01',
     label: 'Email',
-    value: 'afisfisabillah@gmail.com',
+    value: 'afisfisabilillah21@gmail.com',
     href: 'mailto:afisfisabillah@gmail.com',
     meta: 'Primary channel',
   },
