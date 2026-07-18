@@ -41,15 +41,27 @@
         Membangun aplikasi web dan mobile yang modern, rapi, dan fungsional dengan fokus pada performa, struktur, dan pengalaman pengguna.
       </p>
 
-      <a
-          href="#"
-          class="inline-flex items-center gap-2.5 bg-primary text-black font-mono text-[11px] font-bold tracking-[0.18em] uppercase px-6 py-3.5 border-2 border-primary transition-all duration-200 hover:bg-transparent hover:text-primary mb-12 animate-fade-up [animation-delay:380ms]"
-      >
-        <span>GET STARTED</span>
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-          <path d="M3 8H13M13 8L8.5 3.5M13 8L8.5 12.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </a>
+      <div class="flex flex-wrap items-center gap-4 mb-12 animate-fade-up [animation-delay:380ms]">
+        <a
+            href="#"
+            class="inline-flex items-center gap-2.5 bg-primary text-black font-mono text-[11px] font-bold tracking-[0.18em] uppercase px-6 py-3.5 border-2 border-primary transition-all duration-200 hover:bg-transparent hover:text-primary"
+        >
+          <span>GET STARTED</span>
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path d="M3 8H13M13 8L8.5 3.5M13 8L8.5 12.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+        <a
+            href="/cv.pdf"
+            download
+            class="inline-flex items-center gap-2.5 bg-transparent text-primary font-mono text-[11px] font-bold tracking-[0.18em] uppercase px-6 py-3.5 border-2 border-primary transition-all duration-200 hover:bg-primary hover:text-black"
+        >
+          <span>DOWNLOAD CV</span>
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path d="M8 11V3M8 11L5 8M8 11L11 8M3 13H13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
 
 
     </div>
