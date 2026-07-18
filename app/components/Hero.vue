@@ -29,10 +29,10 @@
       <!-- Label row -->
 
       <h1 class="mb-2 flex flex-col items-start text-left leading-[0.88]">
-        <span class="hero-outline text-left font-['Bebas_Neue'] text-9xl block animate-fade-up [animation-delay:50ms]">
+        <span class="hero-outline text-left font-['Bebas_Neue'] text-6xl sm:text-7xl md:text-8xl lg:text-9xl block animate-fade-up [animation-delay:50ms]">
           Afis
         </span>
-        <span class="font-['Bebas_Neue'] text-9xl text-white block animate-fade-up [animation-delay:150ms]">
+        <span class="font-['Bebas_Neue'] text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-white block animate-fade-up [animation-delay:150ms]">
           Fisabillah
         </span>
       </h1>
